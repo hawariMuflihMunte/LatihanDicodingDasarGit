@@ -7,3 +7,6 @@ Line of testing text here...
 1st dummy commit for my exercise.
 
 This is 2nd line of my random text for dummy commit.
+
+
+You may think this is cray, but this is my 3rd random texts just for dummy commit for my exercise, nothing else.
