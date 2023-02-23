@@ -5,3 +5,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Line of testing text here...
 
 1st dummy commit for my exercise.
+
+This is 2nd line of my random text for dummy commit.
